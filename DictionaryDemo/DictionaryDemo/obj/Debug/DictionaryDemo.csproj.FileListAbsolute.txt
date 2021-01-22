@@ -1,0 +1,7 @@
+C:\Users\tuna_\Desktop\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe.config
+C:\Users\tuna_\Desktop\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.exe
+C:\Users\tuna_\Desktop\DictionaryDemo\DictionaryDemo\bin\Debug\DictionaryDemo.pdb
+C:\Users\tuna_\Desktop\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csprojAssemblyReference.cache
+C:\Users\tuna_\Desktop\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\tuna_\Desktop\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.exe
+C:\Users\tuna_\Desktop\DictionaryDemo\DictionaryDemo\obj\Debug\DictionaryDemo.pdb
